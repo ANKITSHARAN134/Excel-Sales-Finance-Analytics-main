@@ -1,9 +1,9 @@
 #### Objective
 
 1.Create a Customer Performance Report
-(https://github.com/supriya1603/Excel-Sales-Finance-Analytics/blob/2f88e212b5e1df3a2408f5c3d9784655974c21ce/Customer%20Performance%20Report.pdf)
+(https://github.com/ANKITSHARAN134/Excel-Sales-Finance-Analytics-main/blob/main/Customer%20Performance%20Report.pdf)
 
-2.Conduct a comprehensive comparison between Market Performance and Sales Targets (https://github.com/supriya1603/Excel-Sales-Finance-Analytics/blob/2f88e212b5e1df3a2408f5c3d9784655974c21ce/Market%20Performance%20vs%20Target%20Report.pdf)
+2.Conduct a comprehensive comparison between Market Performance and Sales Targets (https://github.com/ANKITSHARAN134/Excel-Sales-Finance-Analytics-main/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 #### Purpose of Sales Analytics
 
@@ -21,9 +21,10 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 
 #### Objective
 
-1. Create Profit & Loss Reports by Fiscal Year (https://github.com/supriya1603/Excel-Sales-Finance-Analytics/blob/0269db2453f5b077dab59d6b188b840bb18ce005/P%26L%20Statement%20by%20Fiscal%20Year.pd)
-2. Create Profit & Loss Reports by Markets (https://github.com/supriya1603/Excel-Sales-Finance-Analytics/blob/0269db2453f5b077dab59d6b188b840bb18ce005/P%26L%20Statement%20by%20Markets.pdf)
-3. Create Profit & Loss Reports by Months
+1. Create Profit & Loss Reports by Fiscal Year (https://github.com/ANKITSHARAN134/Excel-Sales-Finance-Analytics-main/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+2. Create Profit & Loss Reports by Markets (https://github.com/ANKITSHARAN134/Excel-Sales-Finance-Analytics-main/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+3. Create Profit & Loss Reports by Months (https://github.com/ANKITSHARAN134/Excel-Sales-Finance-Analytics-
+main/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 #### Purpose of Finance Analytics
 
