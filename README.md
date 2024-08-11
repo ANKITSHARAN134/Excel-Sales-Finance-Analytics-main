@@ -23,8 +23,7 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 
 1. Create Profit & Loss Reports by Fiscal Year (https://github.com/ANKITSHARAN134/Excel-Sales-Finance-Analytics-main/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 2. Create Profit & Loss Reports by Markets (https://github.com/ANKITSHARAN134/Excel-Sales-Finance-Analytics-main/blob/main/P%26L%20Statement%20by%20Markets.pdf)
-3. Create Profit & Loss Reports by Months (https://github.com/ANKITSHARAN134/Excel-Sales-Finance-Analytics-
-main/blob/main/P%26L%20Statement%20by%20Months.pdf)
+3. Create Profit & Loss Reports by Months (https://github.com/ANKITSHARAN134/Excel-Sales-Finance-Analytics-main/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 #### Purpose of Finance Analytics
 
